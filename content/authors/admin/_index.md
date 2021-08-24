@@ -58,7 +58,7 @@ social:
    link: uploads/saifahmed_resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "sahmed@ntu.edu.sg"
+# email: "sahmed@ntu.edu.sg"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
