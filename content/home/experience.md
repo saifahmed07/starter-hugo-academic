@@ -37,7 +37,14 @@ experience:
         * PI on NTU Start-up grant: The Role of Social Media Use in Civic Participation and Knowledge Inequality
         * Co-PI on MOE ACRF Tier 2 grant: Mobile gamification strategies to manage online emergence of nativism
         
-  
+  - title: Professor of Semiconductor Physics
+    company: University X
+    company_url: ''
+    company_logo: org-x
+    location: California
+    date_start: '2016-01-01'
+    date_end: '2020-12-31'
+    description: Taught electronic engineering and researched semiconductor physics.
 
 design:
   columns: '2'
