@@ -1,5 +1,5 @@
 ---
-title: Building Trust in the Face of Fake News: Countering Mis/Disinformation and Deepfakes
+title: Building Trust in the Face of Fake News - Countering Mis/Disinformation and Deepfakes
 
 event: Singapore International Foundation Impact Media Fellowship, Singapore
 event_url: https://example.org
