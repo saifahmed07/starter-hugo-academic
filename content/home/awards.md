@@ -19,41 +19,30 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- date_end: "2023-01-01"
-  date_start: "2020-01-01"
-  description: "PI on MoE ACRF Tier 1 Grant"
-  organization: Nanyang Technological University
+- date_start: "2021-07-01"
+  description: "Best Paper AEJMC"
+  organization: AEJMC
   organization_url: https://ntu.edu.sg
   title: Us and AI - Public Opinion on Artificial Intelligence in a Post-Trust Era
   url: "https://ntu.edu.sg"
-- date_end: "2022-01-01"
-  date_start: "2019-01-01"
-  description: "PI on Research Startup grant"
-  organization: Nanyang Technological University
+- date_start: "2021-07-01"
+  description: "Best Paper AEJMC"
+  organization: AEJMC
   organization_url: https://ntu.edu.sg
-  title: The Role of Social Media Use in Civic Participation and Knowledge Inequality
+  title: Us and AI - Public Opinion on Artificial Intelligence in a Post-Trust Era
   url: "https://ntu.edu.sg"
-- date_end: "2021-10-01"
-  date_start: "2018-01-01"
-  description: "co-PI on MoE ACRF Tier 2 Grant"
-  organization: Nanyang Technological University
+- date_start: "2021-07-01"
+  description: "Best paper Award"
+  organization: 7th International Communication Management Conference (ICMC) 2021, Moody College of Communication (UT Austin) and MICA
   organization_url: https://ntu.edu.sg
-  title: Mobile gamification strategies to manage online emergence of nativism
+  title: Does Online Dating Promotion Vary Across Cultures? Analysing Homepage Advertisements of Online Dating Services in 51 Countries Across Europe, North America, and South America
   url: "https://ntu.edu.sg"
-- date_end: ""
-  date_start: "2017-07-01"
-  description: "OII Summer Doctoral Program 2017"
-  organization: Oxford Internet Institute, University of Oxford
-  organization_url: https://www.oii.ox.ac.uk/
-  title: Summer Doctoral Program (SDP) Scholarship
-  url: "https://www.oii.ox.ac.uk/study/summer-doctoral-programme/"
-- date_end: "2017-07-01"
-  date_start: "2016-07-01"
-  description: "Scholarships to attend the 2nd and 3rd City University of Hong Kong Summer School"
-  organization: City University of Hong Kong Department of Media and Communication
-  organization_url: https://www.cityu.edu.hk/com/
-  title: CityU Summer School Scholarships
-  url: "https://cityuhksummerschool.wordpress.com/"
+- date_start: "2020-07-01"
+  description: "Third Place Faculty Paper"
+  organization: AEJMC Political Communication Division, AEJMC 2020
+  organization_url: https://ntu.edu.sg
+  title: Online Political Engagement, Fake News Exposure, and Fake News Sharing in Sub-Saharan Africa
+  url: "https://ntu.edu.sg"
 design:
   columns: '2' 
 ---
