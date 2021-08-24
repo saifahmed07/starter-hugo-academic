@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: 'Scholar&shy;ships & Grants'
 subtitle:
 
 # Date format
@@ -23,31 +23,41 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
-  date_end: ""
-  date_start: "2021-01-25"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
-  url: ""
-- certificate_url: https://www.edx.org
-  date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
-  url: ""
-
+- date_end: "2023-01-01"
+  date_start: "2020-01-01"
+  description: "PI on MoE ACRF Tier 1 Grant"
+  organization: Nanyang Technological University
+  organization_url: https://ntu.edu.sg
+  title: Us and AI - Public Opinion on Artificial Intelligence in a Post-Trust Era
+  url: "https://ntu.edu.sg"
+- date_end: "2022-01-01"
+  date_start: "2019-01-01"
+  description: "PI on Research Startup grant"
+  organization: Nanyang Technological University
+  organization_url: https://ntu.edu.sg
+  title: The Role of Social Media Use in Civic Participation and Knowledge Inequality
+  url: "https://ntu.edu.sg"
+- date_end: "2021-10-01"
+  date_start: "2018-01-01"
+  description: "co-PI on MoE ACRF Tier 2 Grant"
+  organization: Nanyang Technological University
+  organization_url: https://ntu.edu.sg
+  title: Mobile gamification strategies to manage online emergence of nativism
+  url: "https://ntu.edu.sg"
+- date_end: ""
+  date_start: "2017-07-01"
+  description: "OII Summer Doctoral Program 2017"
+  organization: Oxford Internet Institute, University of Oxford
+  organization_url: https://www.oii.ox.ac.uk/
+  title: Summer Doctoral Program (SDP) Scholarship
+  url: "https://www.oii.ox.ac.uk/study/summer-doctoral-programme/"
+- date_end: "2017-07-01"
+  date_start: "2016-07-01"
+  description: "Scholarships to attend the 2nd and 3rd City University of Hong Kong Summer School"
+  organization: City University of Hong Kong Department of Media and Communication
+  organization_url: https://www.cityu.edu.hk/com/
+  title: CityU Summer School Scholarships
+  url: "https://cityuhksummerschool.wordpress.com/"
 design:
   columns: '2' 
 ---

@@ -31,11 +31,7 @@ experience:
     date_end: ''
     description: |2-
         * Teaching social media and society, public opinion, and public speaking
-        * PI on MOE ACRF Tier 1 grant: Us and AI: Public Opinion on Artificial Intelligence in a Post-Trust Era
-        * PI on NTU Start-up grant: The Role of Social Media Use in Civic Participation and Knowledge Inequality
-        * Co-PI on MOE ACRF Tier 2 grant: Mobile gamification strategies to manage online emergence of nativism
-
-        
+       
 
 design:
   columns: '2'
