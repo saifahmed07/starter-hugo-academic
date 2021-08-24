@@ -9,40 +9,51 @@ headless: true
 # Order that this section appears on the page.
 weight: 65
 
-title: Projects
+title: Awards & Honors
 subtitle: ''
+date_format: Jan 2006
 
-content:
-  # Page type to display. E.g. project.
-  page_type: project
-
-  # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-  filter_default: 0
-
-  # Filter toolbar (optional).
-  # Add or remove as many filters (`filter_button` instances) as you like.
-  # To show all items, set `tag` to "*".
-  # To filter by a specific tag, set `tag` to an existing tag name.
-  # To remove the toolbar, delete the entire `filter_button` block.
-  filter_button:
-  - name: All
-    tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
-
+# Accomplishments.
+#   Add/remove as many `item` blocks below as you like.
+#   `title`, `organization`, and `date_start` are the required parameters.
+#   Leave other parameters empty if not required.
+#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+item:
+- date_end: "2023-01-01"
+  date_start: "2020-01-01"
+  description: "PI on MoE ACRF Tier 1 Grant"
+  organization: Nanyang Technological University
+  organization_url: https://ntu.edu.sg
+  title: Us and AI - Public Opinion on Artificial Intelligence in a Post-Trust Era
+  url: "https://ntu.edu.sg"
+- date_end: "2022-01-01"
+  date_start: "2019-01-01"
+  description: "PI on Research Startup grant"
+  organization: Nanyang Technological University
+  organization_url: https://ntu.edu.sg
+  title: The Role of Social Media Use in Civic Participation and Knowledge Inequality
+  url: "https://ntu.edu.sg"
+- date_end: "2021-10-01"
+  date_start: "2018-01-01"
+  description: "co-PI on MoE ACRF Tier 2 Grant"
+  organization: Nanyang Technological University
+  organization_url: https://ntu.edu.sg
+  title: Mobile gamification strategies to manage online emergence of nativism
+  url: "https://ntu.edu.sg"
+- date_end: ""
+  date_start: "2017-07-01"
+  description: "OII Summer Doctoral Program 2017"
+  organization: Oxford Internet Institute, University of Oxford
+  organization_url: https://www.oii.ox.ac.uk/
+  title: Summer Doctoral Program (SDP) Scholarship
+  url: "https://www.oii.ox.ac.uk/study/summer-doctoral-programme/"
+- date_end: "2017-07-01"
+  date_start: "2016-07-01"
+  description: "Scholarships to attend the 2nd and 3rd City University of Hong Kong Summer School"
+  organization: City University of Hong Kong Department of Media and Communication
+  organization_url: https://www.cityu.edu.hk/com/
+  title: CityU Summer School Scholarships
+  url: "https://cityuhksummerschool.wordpress.com/"
 design:
-  # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '2'
-
-  # Toggle between the various page layout types.
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   5 = Showcase
-  view: 2
-
-  # For Showcase view, flip alternate rows?
-  flip_alt_rows: false
+  columns: '2' 
 ---
