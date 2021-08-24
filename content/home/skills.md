@@ -24,10 +24,14 @@ feature:
   icon: chart-line
   icon_pack: fas
   name: Statistics
-- description: 10%
-  icon: camera-retro
+- description: 50%
+  icon: chess-queen
   icon_pack: fas
-  name: Photography
+  name: Chess
+  - description: 80%
+  icon: hourglass-start
+  icon_pack: fas
+  name: Quizzing
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
