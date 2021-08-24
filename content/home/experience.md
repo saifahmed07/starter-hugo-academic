@@ -22,10 +22,10 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Assistant Professor, 
+  - title: Assistant Professor
     company: Nanyang  Technological University 
     company_url: 'https://www.ntu.edu.sg'
-    company_logo: org-gc
+    company_logo: ntu-logo
     location: Singapore
     date_start: '2018-12-01'
     date_end: ''
@@ -36,14 +36,6 @@ experience:
         * Co-PI on MOE ACRF Tier 2 grant: Mobile gamification strategies to manage online emergence of nativism
 
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
 
 design:
   columns: '2'
