@@ -1,38 +1,38 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Saifuddin Ahmed
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Assistant Professor of Computer-mediated Communication
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Nanyang Technological University
+  url: https://dr.ntu.edu.sg/cris/rp/rp00853
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Saifuddin Ahmed is an assistant professor at Wee Kim Wee School of Communication and Information at Nanyang Technological University in Singapore. 
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Public opinion
+- Deepfakes
+- Social media
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Political Communication
+    institution: University of California Davis
+    year: 2018
+  - course: MA (Mass Communication)
+    institution: Nanyang Technological University Singapore
+    year: 2010
+  - course: BSc (Hons) in Mass Communications & Video Production 
+    institution: St. Xavier’s College India
     year: 2008
 
 # Social/Academic Networking
@@ -43,35 +43,31 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://scholar.google.com/citations?user=JYlPxJ4AAAAJ&hl=en
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/saifuddin-ahmed-84828646/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+ - icon: cv
+   icon_pack: ai
+   link: uploads/saifahmed_resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "sahmed@ntu.edu.sg"
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Saifuddin Ahmed is an assistant professor at Wee Kim Wee School of Communication and Information at Nanyang Technological University in Singapore. Dr. Ahmed holds a Ph.D. in Communication Studies from the University of California, Davis.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+His research interests lie in new and emerging media, political communication, social media and politics, public opinion, and media representation of minorities. He is particularly interested in the transformative role of new media in political engagement in technologically emerging societies. More recently, Dr. Ahmed is investigating the effects of AI on politics concentrating on algorithmic influence on political attitudes and behavior (including the public opinion of AI technologies and the sociopolitical impact of deepfakes).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Dr. Ahmed has published in reputed peer-review journals such as New Media & Society, Communication Research, Journal of Broadcasting and Electronic Media, Computers in Human Behavior, and International Journal of Public Opinion Research.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/saifahmed_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
