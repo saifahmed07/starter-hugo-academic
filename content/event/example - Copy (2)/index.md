@@ -1,7 +1,7 @@
 ---
 title: Trust, disrupted - Examining Deepfakes on Social Media
 
-event: DRUMS: Distortions, Rumours, Untruths, Misinformation & Smears
+event: DRUMS - Distortions, Rumours, Untruths, Misinformation & Smears
 event_url: https://www.rsis.edu.sg/rsis-event-article/rsis/drums-distortions-rumours-untruths-misinformation-smears/
 
 location: S. Rajaratnam School of International Studies, Nanyang Technological University, Singapore
