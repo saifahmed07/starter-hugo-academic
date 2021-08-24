@@ -25,9 +25,9 @@ feature:
   icon_pack: fas
   name: Statistics
 - description: 60%
-  icon: camera-retro
+  icon: chess-queen
   icon_pack: fas
-  name: Photography
+  name: Chess
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
