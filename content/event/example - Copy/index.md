@@ -4,7 +4,7 @@ title: Trust, disrupted - Examining Deepfakes on Social Media
 event: 5th Annual WKW Soka International Seminar on Global Peace and Understanding
 event_url: https://ssabuddhist.org/5th-annual-wee-kim-wee-soka-international-seminar-on-global-peace-and-understanding/
 
-location: Singapore Soka Association
+location: Singapore Management University 
 
 
 # Talk start and end times.
