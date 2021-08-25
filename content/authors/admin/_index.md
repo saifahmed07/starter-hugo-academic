@@ -64,10 +64,10 @@ social:
 highlight_name: true
 ---
 
-Saifuddin Ahmed is an assistant professor at Wee Kim Wee School of Communication and Information at Nanyang Technological University in Singapore. Dr. Ahmed holds a Ph.D. in Communication Studies from the University of California, Davis.
+Saifuddin (Saif) Ahmed is an assistant professor at Wee Kim Wee School of Communication and Information at Nanyang Technological University in Singapore. Dr. Ahmed holds a Ph.D. in Communication Studies from the University of California, Davis.
 
 His research interests lie in new and emerging media, political communication, social media and politics, public opinion, and media representation of minorities. He is particularly interested in the transformative role of new media in political engagement in technologically emerging societies. More recently, Dr. Ahmed is investigating the effects of AI on politics concentrating on algorithmic influence on political attitudes and behavior (including the public opinion of AI technologies and the sociopolitical impact of deepfakes).
 
 Dr. Ahmed has published in reputed peer-review journals such as New Media & Society, Communication Research, Journal of Broadcasting and Electronic Media, Computers in Human Behavior, and International Journal of Public Opinion Research.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/saifahmed_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download Saif's {{< staticref "uploads/saifahmed_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
