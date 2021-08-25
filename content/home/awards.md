@@ -20,14 +20,14 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - date_start: "2021-08-03"
-  description: "Top Faculty Debut Paper"
+  description: "Third Place Paper, Stevenson Open Competition; Asian Journal of Communication Best Paper"
   organization: AEJMC
   organization_url: "http://aejmc.org/events/virtual21/schedule/"
   title: "Perception and Deception - Examining Third- and FirstPerson Perceptual Gaps About Deepfakes in US and
 Singapore"
   url: http://aejmc.org/events/virtual21/schedule/
 - date_start: "2021-08-03"
-  description: "Second Place Best Faculty Paper"
+  description: "Third Place Best Faculty Paper"
   organization: AEJMC
   organization_url: "http://aejmc.org/events/virtual21/schedule/"
   title: "Engaging with Vilifying Stereotypes - The Role of
