@@ -24,6 +24,31 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - date_end: ""
+  date_start: "2021-02-21"
+  organization: Channel News Asia
+  title: How protesters in Myanmar get around social media blackouts
+  url: "https://www.channelnewsasia.com/asia/myanmar-protests-protesters-getting-around-internet-blackout-342066"
+
+- date_end: ""
+  date_start: "2021-01-23"
+  organization: Channel News Asia
+  title: "Commentary What’s stopping Signal, Telegram and other messaging platforms from going the way of WhatsApp?"
+  url: "https://www.channelnewsasia.com/commentary/telegram-signal-how-safe-secure-cyber-security-easy-to-use-425656"
+
+- date_end: ""
+  date_start: "2021-01-21"
+  organization: Asia Tonight on Channel News Asia
+  title: "The role of social media in Capitol Hill Riots"
+  
+
+- date_end: ""
+  date_start: "2020-10-21"
+  organization: Asia First on Channel News Asia
+  title: "The role of social media in 2020 US Elections"
+  url: "https://www.youtube.com/watch?v=VQQ35rIsWwc&feature=youtu.be&ab_channel=CNA"
+
+
+- date_end: ""
   date_start: "2020-11-01"
   organization: Science Magazine, USA
   title: 1 in 3 who are aware of deepfakes say they have inadvertently shared them on social media
