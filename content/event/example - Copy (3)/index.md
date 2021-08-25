@@ -2,9 +2,9 @@
 title: Regulating Deepfakes
 
 event: United Nations
-event_url: https://www.rsis.edu.sg/rsis-event-article/rsis/drums-distortions-rumours-untruths-misinformation-smears/
+event_url: 
 
-location: S. Rajaratnam School of International Studies, Nanyang Technological University, Singapore
+location: 
 
 
 # Talk start and end times.

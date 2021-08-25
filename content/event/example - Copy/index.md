@@ -1,15 +1,15 @@
 ---
-title: Building Trust in the Face of Fake News - Countering Mis/Disinformation and Deepfakes
+title: Trust, disrupted - Examining Deepfakes on Social Media
 
-event: Singapore International Foundation Impact Media Fellowship, Singapore
-event_url: https://example.org
+event: 5th Annual WKW Soka International Seminar on Global Peace and Understanding
+event_url: https://ssabuddhist.org/5th-annual-wee-kim-wee-soka-international-seminar-on-global-peace-and-understanding/
 
-location: Singapore
+location: Singapore Soka Association
 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-06-01"
+date: "2021-01-01"
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -21,6 +21,6 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/BCvjjPU5RG4)'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/OLLtavHHBKg)'
   focal_point: Right
 ---

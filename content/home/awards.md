@@ -19,30 +19,33 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- date_start: "2021-07-01"
-  description: "Best Paper AEJMC"
+- date_start: "2021-08-03"
+  description: "Top Faculty Debut Paper"
   organization: AEJMC
-  organization_url: https://ntu.edu.sg
-  title: Us and AI - Public Opinion on Artificial Intelligence in a Post-Trust Era
-  url: "https://ntu.edu.sg"
-- date_start: "2021-07-01"
-  description: "Best Paper AEJMC"
+  organization_url: "http://aejmc.org/events/virtual21/schedule/"
+  title: "Perception and Deception - Examining Third- and FirstPerson Perceptual Gaps About Deepfakes in US and
+Singapore"
+  url: http://aejmc.org/events/virtual21/schedule/
+- date_start: "2021-08-03"
+  description: "Second Place Best Faculty Paper"
   organization: AEJMC
-  organization_url: https://ntu.edu.sg
-  title: Us and AI - Public Opinion on Artificial Intelligence in a Post-Trust Era
-  url: "https://ntu.edu.sg"
-- date_start: "2021-07-01"
+  organization_url: "http://aejmc.org/events/virtual21/schedule/"
+  title: "Engaging with Vilifying Stereotypes - The Role of
+Algorithmic Use in Perpetuating Misinformation about
+Muslim Congresswomen"
+  url: "http://aejmc.org/events/virtual21/schedule/"
+- date_start: "2021-01-07"
   description: "Best paper Award"
   organization: 7th International Communication Management Conference (ICMC) 2021, Moody College of Communication (UT Austin) and MICA
-  organization_url: https://ntu.edu.sg
+  organization_url: "https://www.mica.ac.in/icmc/icmc-2021"
   title: Does Online Dating Promotion Vary Across Cultures? Analysing Homepage Advertisements of Online Dating Services in 51 Countries Across Europe, North America, and South America
-  url: "https://ntu.edu.sg"
+  url: "https://www.mica.ac.in/icmc/icmc-2022"
 - date_start: "2020-07-01"
-  description: "Third Place Faculty Paper"
+  description: "Third Place Best Faculty Paper"
   organization: AEJMC Political Communication Division, AEJMC 2020
-  organization_url: https://ntu.edu.sg
-  title: Online Political Engagement, Fake News Exposure, and Fake News Sharing in Sub-Saharan Africa
-  url: "https://ntu.edu.sg"
+  organization_url: "http://aejmc.org/events/virtual21/schedule/"
+  title: "Online Political Engagement, Fake News Exposure, and Fake News Sharing in Sub-Saharan Africa"
+  url: "http://aejmc.org/events/virtual21/schedule/"
 design:
   columns: '2' 
 ---

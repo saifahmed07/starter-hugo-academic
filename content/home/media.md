@@ -23,41 +23,58 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- date_end: "2023-01-01"
-  date_start: "2020-01-01"
-  description: "PI on MoE ACRF Tier 1 Grant"
-  organization: Nanyang Technological University
-  organization_url: https://ntu.edu.sg
-  title: Us and AI - Public Opinion on Artificial Intelligence in a Post-Trust Era
-  url: "https://ntu.edu.sg"
-- date_end: "2022-01-01"
-  date_start: "2019-01-01"
-  description: "PI on Research Startup grant"
-  organization: Nanyang Technological University
-  organization_url: https://ntu.edu.sg
-  title: The Role of Social Media Use in Civic Participation and Knowledge Inequality
-  url: "https://ntu.edu.sg"
-- date_end: "2021-10-01"
-  date_start: "2018-01-01"
-  description: "co-PI on MoE ACRF Tier 2 Grant"
-  organization: Nanyang Technological University
-  organization_url: https://ntu.edu.sg
-  title: Mobile gamification strategies to manage online emergence of nativism
-  url: "https://ntu.edu.sg"
 - date_end: ""
-  date_start: "2017-07-01"
-  description: "OII Summer Doctoral Program 2017"
-  organization: Oxford Internet Institute, University of Oxford
-  organization_url: https://www.oii.ox.ac.uk/
-  title: Summer Doctoral Program (SDP) Scholarship
-  url: "https://www.oii.ox.ac.uk/study/summer-doctoral-programme/"
-- date_end: "2017-07-01"
-  date_start: "2016-07-01"
-  description: "Scholarships to attend the 2nd and 3rd City University of Hong Kong Summer School"
-  organization: City University of Hong Kong Department of Media and Communication
-  organization_url: https://www.cityu.edu.hk/com/
-  title: CityU Summer School Scholarships
-  url: "https://cityuhksummerschool.wordpress.com/"
+  date_start: "2020-11-01"
+  organization: Science Magazine, USA
+  title: 1 in 3 who are aware of deepfakes say they have inadvertently shared them on social media
+
+- date_end: ""
+  date_start: "2020-11-01"
+  organization: Mashable South East Asia
+  title: Think you can spot a deepfake? Survey proves that even the best get fooled
+
+- date_end: ""
+  date_start: "2020-11-01"
+  organization: Science Daily, USA
+  title: One in three who are aware of deepfakes say they have inadvertently shared them on social media
+
+- date_end: ""
+  date_start: "2020-11-01"
+  organization: Tek Crispy, USA
+  title: 1 in 3 people have shared deepfake content on social media
+
+- date_end: ""
+  date_start: "2020-11-01"
+  organization: Channel 8 Online
+  title: Study - A third of Singaporeans who say they are aware of deepfakes continue to circulate such content
+
+- date_end: ""
+  date_start: "2020-11-01"
+  organization: The Hindu, India
+  title: 1 in 3 individuals aware of deepfakes inadvertently shared them on social media - Study
+
+- date_end: ""
+  date_start: "2020-11-01"
+  organization: Hitech World, France
+  title: 1 personne sur 3 qui est au courant des deepfakes déclare les avoir partagées par inadvertance sur les réseaux sociaux
+
+- date_end: ""
+  date_start: "2020-11-01"
+  organization: Citizen Side, France
+  title: 1 sur 3 qui est au courant des deepfakes déclare les avoir partagés par inadvertance sur les réseaux sociaux
+
+- date_end: ""
+  date_start: "2020-11-01"
+  organization: News 8 Plus, India
+  title: 1 in three who’re conscious of deepfakes say they’ve inadvertently shared them on social media
+
+
+- date_end: ""
+  date_start: "2020-11-01"
+  organization: Daily Advent, USA
+  title: 1 in 3 who are aware of deepfakes say they have inadvertently shared them on social media
+
+
 design:
   columns: '2' 
 ---
