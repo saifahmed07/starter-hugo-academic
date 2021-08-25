@@ -1,10 +1,10 @@
 ---
-title: Regulating Deepfakes
+title: Deepfakes - Understanding the implications for international security and stability
 
-event: United Nations
-event_url: 
+event: The 2021 Innovations Dialogue - Deepfakes, Trust and International Security
+event_url: https://unidir.org/events/2021-innovations-dialogue
 
-location: 
+location: The United Nations Institute for Disarmament Research
 
 
 # Talk start and end times.
