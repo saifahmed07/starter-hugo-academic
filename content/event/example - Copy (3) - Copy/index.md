@@ -2,6 +2,8 @@
 title: Social Media and Deepfakes-  Understanding Public Perception, Engagement, and Skepticism in Singapore and USA
 
 event: Department of Communications and New Media, National University of Singapore
+location: Department of Communications and New Media, National University of Singapore
+
 event_url: "https://tinyurl.com/SaifuddinAhmed"
 
 
